@@ -1,7 +1,6 @@
 ---
 name: prototype
-description: 建立可拋棄的原型來釐清設計——針對狀態／商業邏輯問題建立可執行的 terminal app，或是從同一個 route 切換的多個截然不同的 UI 版本。
-disable-model-invocation: true
+description: 建立可拋棄的原型來回答一個設計問題。用於使用者想確認一個狀態模型或邏輯感覺是否正確，或想探索 UI 該長什麼樣子時。
 ---
 
 # Prototype（原型）
